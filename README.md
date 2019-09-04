@@ -1,2 +1,2 @@
-# bootcamp-gostack-desafio-01
-Bootcamp GoStack Rocketseat - Desafio 01
+# bootcamp-gostack-challenge-01
+Bootcamp GoStack Rocketseat - Challenge 01
